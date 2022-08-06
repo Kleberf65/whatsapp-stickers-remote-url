@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stickers</string>
+    <string name="permission_alert_message">Você precisa aceitar todas as permissões.</string>
+    <string name="download">Baixar</string>
+    <string name="download_please">Baixando, aguarde...</string>
+    <string name="download_failure">Falha ao tentar baixar o pack!</string>
+    <string name="download_success">Pack baixado com sucesso!</string>
+    <string name="add">Adicionar</string>
+</resources>
